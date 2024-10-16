@@ -31,9 +31,3 @@ Welcome to my GitHub profile! I'm an individual interested in working with softw
 
 ## My Hacktoberfest 2024 Badge
 ![Screenshot 2024-10-16 195253](https://github.com/user-attachments/assets/992a70bd-2ce6-46f6-80bd-55e6e2a812c2)
-
-
-
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch for collaboration or freelance work.
-
-
