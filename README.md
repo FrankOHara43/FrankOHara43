@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm an individual interested in working with softw
 ### Tech Stack
 
 - **Languages**: Java, Python
-- **Frontend**: React, JavaScript (ES6+), Tailwind CSS
+- **Frontend**:JavaScript (ES6+), Tailwind CSS
 - **Backend**: Node.js (Express), Go, MongoDB
 - **Other**: REST APIs
 
