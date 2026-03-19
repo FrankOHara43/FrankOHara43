@@ -1,10 +1,10 @@
-# I'm Arya 
+# I'm Arya Swaraj
 
 Welcome to my GitHub profile! I'm an individual interested in working with softwares.
 
 ### Tech Stack
 
-- **Languages**: Java, Python
+- **Languages**: Java, Python, JavaScript, TypeScript, Next.js
 - **Frontend**:JavaScript (ES6+), Tailwind CSS
 - **Backend**: Node.js (Express), Go, MongoDB
 - **Other**: REST APIs
